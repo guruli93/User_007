@@ -1,0 +1,32 @@
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\bin\Debug\net7.0\User_App.deps.json
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\bin\Debug\net7.0\User_App.dll
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\bin\Debug\net7.0\User_App.pdb
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\bin\Debug\net7.0\User_Domain.dll
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\bin\Debug\net7.0\User_Domain.pdb
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\obj\Debug\net7.0\User_App.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\obj\Debug\net7.0\User_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\obj\Debug\net7.0\User_App.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\obj\Debug\net7.0\User_App.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\obj\Debug\net7.0\User_App.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\obj\Debug\net7.0\User_App.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\obj\Debug\net7.0\User_App.dll
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\obj\Debug\net7.0\refint\User_App.dll
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\obj\Debug\net7.0\User_App.pdb
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_App\obj\Debug\net7.0\ref\User_App.dll
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\User_App.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\User_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\User_App.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\User_App.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\User_App.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\bin\Debug\net7.0\User_App.deps.json
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\bin\Debug\net7.0\User_App.runtimeconfig.json
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\bin\Debug\net7.0\User_App.dll
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\bin\Debug\net7.0\User_App.pdb
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\bin\Debug\net7.0\User_Domain.dll
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\bin\Debug\net7.0\User_Domain.pdb
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\User_App.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\User_App.dll
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\refint\User_App.dll
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\User_App.pdb
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\User_App.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_App\obj\Debug\net7.0\ref\User_App.dll

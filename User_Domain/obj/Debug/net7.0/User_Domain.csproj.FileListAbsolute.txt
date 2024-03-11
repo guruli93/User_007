@@ -1,0 +1,25 @@
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\bin\Debug\net7.0\User_Domain.deps.json
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\bin\Debug\net7.0\User_Domain.dll
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\bin\Debug\net7.0\User_Domain.pdb
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.dll
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\obj\Debug\net7.0\refint\User_Domain.dll
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.pdb
+C:\Users\Lenovo\Desktop\New proect c#\User_Domain\User_Domain\obj\Debug\net7.0\ref\User_Domain.dll
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\bin\Debug\net7.0\User_Domain.deps.json
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\bin\Debug\net7.0\User_Domain.runtimeconfig.json
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\bin\Debug\net7.0\User_Domain.dll
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\bin\Debug\net7.0\User_Domain.pdb
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.dll
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\obj\Debug\net7.0\refint\User_Domain.dll
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.pdb
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\obj\Debug\net7.0\User_Domain.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\User_009\User_Domain\User_Domain\obj\Debug\net7.0\ref\User_Domain.dll
